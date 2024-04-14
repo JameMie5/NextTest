@@ -136,6 +136,9 @@
     "branches": [
       "main"
     ],
+    "engines": {
+      "node": "16.x"
+    },
     "plugins": [
       [
         "@semantic-release/commit-analyzer",
