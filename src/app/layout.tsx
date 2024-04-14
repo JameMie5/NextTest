@@ -2,12 +2,6 @@
 import Menubar from "./../components/Munubar";
 import Footer from "@/components/Footer";
 import Menuitem from "@/components/Menuitem";
-
-// Import Swiper styles
-import "swiper/css";
-import "swiper/css/navigation";
-import "swiper/css/pagination";
-import "swiper/css/scrollbar";
 import Link from "next/link";
 
 interface CardData {
